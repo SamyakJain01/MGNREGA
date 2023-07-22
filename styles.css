@@ -1,0 +1,137 @@
+#title .container-fluid{
+    padding-top: 3%;
+    text-align: left;
+    padding-bottom: 10%;
+}
+.nav-link{
+    color: #fff;
+}
+h1,h2,h3,h4,h5,h6,p{
+    font-family:  'Montserrat';
+        
+}
+.container-fluid{
+    padding: 7% 15%;
+}
+.pa{
+    padding: 0% 5% 2%;
+}
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size:2.5rem;
+    font-weight: 100;
+    color: #fff;
+}
+.navbar{
+    padding-bottom: 5rem;
+    color: #fff;
+}
+.nav-item{
+    padding: 0 18px;
+    color: #ffffff;
+}
+.button{
+    padding: 2px 2px 5px;
+}
+#features{
+    text-align: center;
+    padding-top: 30%;
+    z-index: 1;
+    position: relative;
+    background-color: #fff;
+}
+.feature-title{
+    padding-top: 5px;
+    padding-bottom: 2px;
+    font-size: 2.5rem;
+}
+#testimonials{
+    text-align: center;
+    background-color: rgb(253, 91, 91);
+}
+.testiomonial-text{
+    font-family:'Ubuntu', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.dog-img{
+    width: 10%;
+    padding: 10px;
+    border-radius: 100%;
+}
+.unknown{
+    width: 10%;
+    border-radius: 100%;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+#press{
+
+    padding-bottom: 20px;
+    text-align: center;
+    background-color: rgb(253, 91, 91);
+}
+.img-press{
+    width: 10%;
+}
+#pricing{
+    padding: 100px;
+}
+.pricing-text{
+    font-family:'Ubuntu', sans-serif;
+    font-size: 5rem;
+    line-height: 1.5;
+    padding-top: 2%;
+    padding-left: 2%;
+}
+.pricing-title{
+    padding-top: 5px;
+    padding-bottom: 2px;
+    font-size: 2.5rem;
+}
+.pricing-colum{
+    padding: 3% 2%;
+    text-align: center;
+}
+@media (max-width:1028px) {
+    #title{
+        text-align: center;
+    }
+    #iphone{
+        padding-top: 20px;
+        position: static;
+        width: 60%;
+        transform: rotate(0);
+    }
+    .buttons{
+        padding: 30px 30px;
+    }
+}
+.cta-heading{
+    font-family:"Montserrat-Black";
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+#cta{
+    padding: 7% 15%;
+    text-align: center;
+}
+#footer{
+    padding: 7% 15%;
+    text-align: center;
+}
+.colored-section{
+    background-color: #272727;
+    color: #ffffff;
+}
+.white-section{
+    background-color: #C0EEF2;
+}
+.main{
+    height: 500px;
+}
+.qw{
+    height: 50%;
+    width: 50%;
+}
